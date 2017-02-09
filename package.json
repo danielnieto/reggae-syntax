@@ -2,12 +2,24 @@
   "name": "reggae-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A Dark Reggae (green/yellow/red) syntax theme for Atom supporting HTML/CSS and JS",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "reggae",
+    "green",
+    "yellow",
+    "red",
+    "jamaica",
+    "colorful",
+    "bright",
+    "dark",
+    "contrast",
+    "vivid",
+    "black",
+    "vibrant"
   ],
-  "repository": "https://github.com/atom/reggae-syntax",
+  "repository": "https://github.com/danielnieto/reggae-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
